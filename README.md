@@ -42,6 +42,8 @@ Result Display: Solution rendered on the webpage for user.
 
 ![image](https://github.com/Punitpawar5/AI-virtual-calculator/blob/main/project/assets/Screenshot%20(250).png)
 
+## Demo
+Check out LinkedIn post about this project demo [here](https://www.linkedin.com/posts/punit-pawar5_ai-computervision-gesturerecognition-activity-7324443708404219904-xurd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6bOdEBDSmX6bWWuAxedYglTGFE7pygkwU)
 
 ### License
 
