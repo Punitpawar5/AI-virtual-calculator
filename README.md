@@ -12,8 +12,6 @@ A touchless, intelligent virtual calculator that uses **hand gesture recognition
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-![image](https://github.com/Punitpawar5/AI-virtual-calculator/blob/main/project/assets/aiimage.png)
-
 ## Features
 
 - ✋ Real-time hand gesture detection using webcam
@@ -35,6 +33,10 @@ Image Capture: Drawn image is saved and sent to the backend.
 Gemini AI Integration: app.py sends the image to Gemini, receives LaTeX or textual solution.
 
 Result Display: Solution rendered on the webpage for user.
+
+
+![image](https://github.com/Punitpawar5/AI-virtual-calculator/blob/main/project/assets/aiimage.png)
+
 
 ## Sample Output
 
