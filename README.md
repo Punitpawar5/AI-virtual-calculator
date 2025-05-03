@@ -12,7 +12,7 @@ A touchless, intelligent virtual calculator that uses **hand gesture recognition
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-![image](https://github.com/Punitpawar5/AI-virtual-calculator/blob/main/aiimage.png)
+![image](https://github.com/Punitpawar5/AI-virtual-calculator/blob/main/project/assets/aiimage.png)
 
 ## Features
 
@@ -23,7 +23,7 @@ A touchless, intelligent virtual calculator that uses **hand gesture recognition
 - 🌐 Flask-based web app with dynamic UI
 - 📩 Step-by-step solution generation
 
-![image](https://github.com/Punitpawar5/AI-virtual-calculator/blob/main/Screenshot%20(249).png)
+![image](https://github.com/Punitpawar5/AI-virtual-calculator/blob/main/project/assets/Screenshot%20(249).png)
 
 ## How It Works
 Gesture Tracking: handTrack.py uses MediaPipe to detect hand landmarks.
@@ -38,7 +38,7 @@ Result Display: Solution rendered on the webpage for user.
 
 ## Sample Output
 
-![image](https://github.com/Punitpawar5/AI-virtual-calculator/blob/main/Screenshot%20(250).png)
+![image](https://github.com/Punitpawar5/AI-virtual-calculator/blob/main/project/assets/Screenshot%20(250).png)
 
 
 ### License
