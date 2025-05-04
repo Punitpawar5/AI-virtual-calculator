@@ -32,7 +32,7 @@ xp, yp = 0, 0
 imgCanvas = np.zeros((720, 1280, 3), np.uint8)
 
 api_key = os.getenv("GOOGLE_API_KEY")
-genai.configure(api_key="AIzaSyBMF5rHDt1Bsj2nb2bdDGWFMwuLN0URtpk")
+genai.configure(api_key=api_key)
 
 def gen_frames():
     global xp, yp, asset, drawColor, imgCanvas
